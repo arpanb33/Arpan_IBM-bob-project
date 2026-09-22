@@ -1,0 +1,21 @@
+# Car Sales Analysis — Python dependencies
+
+# Web framework
+Flask==3.1.0
+Flask-Cors==5.0.1
+
+# Data & ML
+pandas==2.2.3
+numpy==1.26.4
+scikit-learn==1.5.2
+yellowbrick==1.5
+
+# Model persistence
+joblib==1.4.2
+
+# Visualisation (used in training script)
+matplotlib==3.9.4
+seaborn==0.13.2
+
+# WSGI server (production)
+gunicorn==23.0.0
