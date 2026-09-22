@@ -4,7 +4,9 @@ End-to-end car sales analytics dashboard with KMeans segmentation, PCA
 visualisation, RFE feature selection, and price prediction.
 
 ---
-
+## Dataset Reference
+- Kaggle Dataset: https://www.kaggle.com/code/georgeamadeus/car-sales-dataset
+- 
 ## Project Structure
 
 ```
